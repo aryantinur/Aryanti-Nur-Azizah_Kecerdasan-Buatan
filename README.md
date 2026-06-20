@@ -1,0 +1,1 @@
+# Aryanti-Nur-Azizah_Kecerdasan-Buatan
