@@ -147,3 +147,8 @@ Output:
 
 - 0 = Tidak Diabetes
 - 1 = Diabetes
+
+## Video Demonstrasi
+
+Link Video Demo:
+https://youtu.be/T2PWav4fmr4
